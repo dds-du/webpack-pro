@@ -1,0 +1,1058 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"assets/"
+			],
+			[
+				"bagc",
+				"background-color"
+			],
+			[
+				"bo",
+				"bootstrap-theme.min.css"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"cas",
+				"case3/"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"la",
+				"layer"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"str",
+				"strokeStyle"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"c",
+				"collapse"
+			],
+			[
+				"tra",
+				"translateY()"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"r",
+				"rotate()"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"offset",
+				"offsetLeft"
+			],
+			[
+				"docu",
+				"documentElement"
+			],
+			[
+				"ont",
+				"ontouchend"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"se",
+				"setInterval"
+			],
+			[
+				"speed",
+				"speedY"
+			],
+			[
+				"con",
+				"cone"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"ro",
+				"rotateX()"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"jq",
+				"jquery-2.0.3.js"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"bad",
+				"background"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"wor",
+				"word-break"
+			],
+			[
+				"tmx",
+				"TweenMax.js"
+			],
+			[
+				"m",
+				"module2.js"
+			],
+			[
+				"mo",
+				"module2.js"
+			],
+			[
+				"pr",
+				"preserve-3d"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"bg",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"of",
+				"overflow"
+			],
+			[
+				"b",
+				"bootstrap.css"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"colu",
+				"column-count"
+			],
+			[
+				"s",
+				"source	Tag"
+			],
+			[
+				"FlashUtil32_23_0_0_207_pepper",
+				"FlashUtil32_23_0_0_207_pepper.exe"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"star",
+				"startY"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"fi",
+				"fillRect"
+			],
+			[
+				"2",
+				"2.png	w:690 h:110"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"Min",
+				"getMinutes"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"en",
+				"endFn"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"offs",
+				"offsetLeft"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 796,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 2296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webpack.dev.js",
+			"settings":
+			{
+				"buffer_size": 1420,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webpack.serve.js",
+			"settings":
+			{
+				"buffer_size": 558,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/index.js",
+			"settings":
+			{
+				"buffer_size": 281,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/test.js",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/commen.css",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/commen.less",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 244,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "vue",
+		"selected_items":
+		[
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"picp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Administrator/Desktop/webpack",
+		"/C/Users/Administrator/Desktop/webpack/libs",
+		"/C/Users/Administrator/Desktop/webpack/src",
+		"/C/Users/Administrator/Desktop/webpack/src/app",
+		"/C/Users/Administrator/Desktop/webpack/src/assets"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/Documents/Tencent Files/348518691/FileRecv/webpack.config.js",
+		"/C/Users/Administrator/Desktop/webpack/src/app/index.js",
+		"/F/wamp/www/DevOpenClub-Tech-Webpack2/019/webpack.config.js",
+		"/C/Users/Administrator/Desktop/webpack/index.html",
+		"/C/Users/Administrator/Desktop/webpack/src/assets/component.js",
+		"/C/Users/Administrator/Desktop/webpack/dist/static/js/f97a13e5e624b2df1ae0.app.js",
+		"/C/Users/Administrator/Desktop/webpack/app/index.js",
+		"/F/github/dds/vue/src/components/info.vue",
+		"/F/github/dds/vue/src/App.vue",
+		"/F/github/dds/vue/src/router/index.js",
+		"/F/github/dds/vue/src/main.js",
+		"/F/github/dds/vue/config/index.js",
+		"/F/github/dds/vue/package.json",
+		"/F/github/dds/vue/build/webpack.base.conf.js",
+		"/F/github/dds/vue/build/webpack.prod.conf.js",
+		"/F/mynode/app.js",
+		"/F/github/dds/vue/src/components/notfound.vue",
+		"/F/github/dds/vue/build/utils.js",
+		"/F/github/dds/vue/config/dev.env.js",
+		"/F/github/dds/vue/src/views/info.vue",
+		"/F/github/dds/vue/src/assets/less/index.less",
+		"/F/github/dds/vue/src/assets/css/index.css",
+		"/F/github/dds/vue/src/assets/less",
+		"/F/github/dds/vue/build/dev-server.js",
+		"/F/github/dds/vue/build/build.js",
+		"/F/github/dds/vue/config/prod.env.js",
+		"/F/wamp/www/bs/js/npm.js",
+		"/F/wamp/www/anjile/source.php",
+		"/F/wamp/www/anjile/index.php",
+		"/F/wamp/www/DevOpenClub-Tech-Webpack2/020/webpack.config.js",
+		"/F/github/dds/vue/index.html",
+		"/E/Sublime Text/Data/Packages/User/router-link.sublime-snippet",
+		"/F/github/dds/vue/src/components/about.vue",
+		"/F/github/dds/vue/src/components/dds.vue",
+		"/F/github/dds/vue/src/components/document.vue",
+		"/F/github/dds/vue/src/views/about3.vue",
+		"/F/github/dds/vue/src/views/about2.vue",
+		"/F/github/dds/vue/src/views/about1.vue",
+		"/F/mynode/package.json",
+		"/E/我的工具/jquery-1.9.1.min.js",
+		"/E/我的工具/jquery.extend.js",
+		"/C/Users/Administrator/Downloads/jquery-1.12.4/test/jquery.js",
+		"/C/Users/Administrator/Desktop/github.lnk",
+		"/E/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/F/wamp/www/anjile/js/main.js",
+		"/F/wamp/www/anjile/js/public.js",
+		"/F/wamp/www/anjile/js/case.js",
+		"/F/wamp/www/anjile/case.php",
+		"/F/wamp/www/anjile/css/source.less",
+		"/F/wamp/www/anjile/js/source.js",
+		"/F/wamp/www/anjile/php/banner.inc.php",
+		"/E/Sublime Text/Data/Packages/User/anjile.sublime-snippet",
+		"/F/wamp/www/anjile/css/source.css",
+		"/F/wamp/www/anjile/css/case.less",
+		"/F/wamp/www/anjile/js/index.js",
+		"/F/wamp/www/anjile/css/main.less",
+		"/F/wamp/www/anjile/php/head.inc.php",
+		"/F/wamp/www/anjile/css/case.css",
+		"/F/wamp/www/anjile/dds.vue",
+		"/E/Sublime Text/Data/Packages/User/snippet.sublime-snippet",
+		"/F/wamp/www/anjile/css/index.less",
+		"/E/Sublime Text/Data/Packages/User/php.sublime-snippet",
+		"/F/wamp/www/anjile/js/jquery-1.9.1.js",
+		"/F/wamp/www/anjile/php/footer.inc.php",
+		"/F/wamp/www/anjile/php/title.php",
+		"/F/github/dds/vue/src/assets/css/about.css",
+		"/F/github/dds/vue/src/views/r_left.vue",
+		"/F/github/dds/vue/src/views/router_left.vue",
+		"/F/mynode/routers/admin.js",
+		"/E/我的工具/bootstrap/css/bootstrap.css",
+		"/F/github/dds/vue/src/assets/css/documt.css",
+		"/F/github/dds/vue/src/assets/css/dds.css",
+		"/F/github/dds/vue2.0/package.json",
+		"/F/github/dds/vue2.0/src/components/Hello.vue",
+		"/F/github/dds/vue2.0/build/dev-server.js",
+		"/F/github/dds/vue2.0/build/webpack.base.conf.js",
+		"/F/github/dds/vue2.0/src/App.vue",
+		"/F/github/dds/vue2.0/src/components/dds.vue",
+		"/F/github/dds/vue2.0/src/main.js",
+		"/E/sublime3_old/Data/Packages/User/snippet.sublime-snippet",
+		"/F/github/dds/vue2.0/config/index.js",
+		"/F/wamp/www/vue/vue-dds/package.json",
+		"/F/wamp/www/vue/vue-dds/build/check-versions.js",
+		"/F/wamp/www/vue/vue-dds/config/index.js",
+		"/F/wamp/www/vue/vue-dds/build/utils.js",
+		"/F/github/dds/dds.html",
+		"/F/wamp/www/anjile/index.html",
+		"/F/wamp/www/vue/vue-dds/.eslintrc.js",
+		"/F/wamp/www/vue-test/tree.html",
+		"/F/wamp/www/vue/vue.html",
+		"/F/mynode/routers/api.js",
+		"/F/mynode/routers/main.js",
+		"/E/nodejs_old/vue",
+		"/F/mynode/views/admin/index.html",
+		"/F/mynode/views/index.html",
+		"/F/mynode/public/index.css",
+		"/E/Sublime Text/Data/Packages/Nodejs/Nodejs.sublime-build",
+		"/F/mynode/1.js",
+		"/F/mynode/dds.txt",
+		"/E/nodejs/js/1.js",
+		"/E/nodejs/js/dds.txt",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/www/js/index.js",
+		"/C/wamp/www/dds/index.php",
+		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/new/dds.php",
+		"/C/wamp/www/new/dds.html",
+		"/F/wamp/www/dds/css/index.css",
+		"/F/wamp/www/dds/css/case1.css",
+		"/F/wamp/www/dds/index.html",
+		"/F/wamp/www/phone/motion.html",
+		"/F/wamp/www/dds/css/case3.css",
+		"/F/wamp/www/dds/3dshow.html",
+		"/F/wamp/www/dds/js/index.js",
+		"/F/wamp/www/dds/case3.html",
+		"/F/wamp/www/dds/js/case3.js",
+		"/F/wamp/www/dds/other.html",
+		"/F/wamp/www/phone/reload.html",
+		"/E/站点/扫雷/main.js",
+		"/E/miaov/2016新官网-VIP会员课件资源目录压缩包/《vue.js实战开发系列》201702017课件/vue-development/app.js",
+		"/E/站点/3d导航.html",
+		"/E/job/vedio/index.html",
+		"/E/job/animat/animate.html",
+		"/F/wamp/www/dds/css/case2.css",
+		"/E/整站/dds/index.html",
+		"/E/整站/dds/zuma.html",
+		"/E/整站/dds/saolei.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app",
+			"wrap\"",
+			"oH",
+			"from",
+			"require",
+			"title",
+			"image",
+			"pic1",
+			"circle",
+			"oAd",
+			"ad",
+			"url",
+			"$",
+			"filteredList",
+			"item",
+			"dblclick",
+			");",
+			"Deny from",
+			"http://",
+			"80",
+			"Documentroot",
+			"#",
+			"#typ",
+			"#type",
+			"obq",
+			"it",
+			"num",
+			"transform",
+			"(0deg",
+			"90",
+			"Y",
+			"X",
+			"“",
+			"container",
+			"conta",
+			"setIn",
+			"animate",
+			".append",
+			"appen",
+			"ctrl+shift+[",
+			"ctrl+shift+l",
+			"is_dir",
+			"ctrl+alt+a",
+			"f2",
+			"ctrl+alt+h",
+			"f12"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1042,
+								1042
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1106.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "webpack.dev.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								874,
+								732
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 818.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "webpack.serve.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								448,
+								448
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/assets/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/assets/commen.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/assets/commen.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webpack.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1018.0,
+		"last_filter": "v",
+		"selected_items":
+		[
+			[
+				"v",
+				"F:\\github\\dds\\vue\\src\\router\\vue.sublime-project"
+			],
+			[
+				"nod",
+				"F:\\mynode\\node.sublime-project"
+			],
+			[
+				"we",
+				"C:\\Users\\Administrator\\Desktop\\init\\webpack.sublime-workspace"
+			],
+			[
+				"web",
+				"C:\\Users\\Administrator\\Desktop\\init\\webpack.sublime-project"
+			],
+			[
+				"n",
+				"F:\\mynode\\node.sublime-project"
+			],
+			[
+				"",
+				"F:\\wamp\\www\\anjile\\css\\job.sublime-project"
+			],
+			[
+				"a",
+				"F:\\wamp\\www\\anjile\\css\\anjile.sublime-project"
+			],
+			[
+				"anjile",
+				"F:\\wamp\\www\\anjile\\css\\anjile.sublime-project"
+			],
+			[
+				"vue",
+				"F:\\github\\dds\\vue\\src\\router\\index.sublime-workspace"
+			]
+		],
+		"width": 1920.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

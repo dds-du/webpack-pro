@@ -1,0 +1,30 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "node webpack.serve.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babili-webpack-plugin": "^0.1.2",
+    "chunk-manifest-webpack-plugin": "^1.1.0",
+    "css-loader": "^0.28.4",
+    "express": "^4.15.3",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "hot-module-replacement": "^3.0.0",
+    "html-webpack-plugin": "^2.29.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.0.0",
+    "webpack-dev-middleware": "^1.11.0",
+    "webpack-dev-server": "^2.5.0",
+    "webpack-hot-middleware": "^2.18.2"
+  }
+}
